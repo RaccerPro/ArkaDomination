@@ -1,0 +1,6 @@
+name : ArkaDomination
+api : '1.8'
+version: '1.0'
+author: Raccer
+main: fr.raccer.domination.Main
+depend: ['MUtils', 'MUtilsPlayers']
